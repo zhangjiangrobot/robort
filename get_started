@@ -2,3 +2,6 @@
 
 Raspberry Pi Robotics Essentials.pdf
 www.allitebooks.com/raspberry-pi-robotics-essentials/
+
+how to configure Raspberry Pi?
+# raspi -config
